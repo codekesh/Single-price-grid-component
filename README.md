@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click for solution](https://github.com/codekesh/Single-price-grid-component.git)
+- Live Site URL: [CLick for live site](https://codekesh.github.io/Single-price-grid-component/)
 
 ## My process
 Processes are mentioned below to make this site:-
@@ -56,7 +56,7 @@ I want to continue this journey
 
 ## Author
 
-- Frontend Mentor - [@@codekesh](https://www.frontendmentor.io/profile/codekesh)
+- Frontend Mentor - [@codekesh](https://www.frontendmentor.io/profile/codekesh)
 - Twitter - [@tulsyan_keshav](https://twitter.com/tulsyan_keshav)
 - Github - [@codekesh](https://github.com/codekesh)
 
