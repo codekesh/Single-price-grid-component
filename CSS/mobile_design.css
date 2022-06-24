@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: hsl(204, 43%, 93%);
+}
+
+.container {
+    margin: auto;
+    width: 360px;
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: hsl(179, 62%, 43%);
+}
+
+.box1 h3{
+    color: hsl(71, 73%, 54%);
+}
+
+.anotherbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.box1 {
+    padding: 40px 30px;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.box1 div{
+    padding-bottom: 5px;
+    color: hsl(218, 22%, 67%);
+}
+
+.box2 {
+    padding: 40px 30px;
+    width: 300px;
+    background-color: hsl(179, 62%, 43%);
+    color: hsl(204, 43%, 93%);
+}
+
+.box3 {
+    padding: 30px 30px;
+    width: 300px;
+    background-color: hsl(179, 74%, 43%);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: hsl(204, 43%, 93%);
+}
+
+.box3 div{
+    padding-bottom: 2px;
+}
+
+h1{
+    margin: 10px 0px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.package{
+    display: flex;
+}
+
+.price{
+    font-size: 30px;
+    padding-right: 10px;
+    font-weight: 700;
+}
+
+.duration{
+    position: relative;
+    top: 10px;
+    color: hsl(179deg 44% 67%);
+}
+
+.short-package{
+    margin: 7px 0px;
+    padding-bottom: 16px;
+}
+
+button{
+    width: 220px;
+    padding: 12px 0px;
+    border-radius: 5px;
+    position: relative;
+    top: 15px;
+    background: hsl(71, 73%, 54%);
+    border: none;
+    color: hsl(204, 43%, 93%);
+    font-weight: 700;
+}
+
+.font{
+    font-family: 'Karla', sans-serif;
+}
+
+.box3 div{
+    color: hsl(179deg 46% 81%);
+}
